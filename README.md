@@ -1,4 +1,5 @@
 # Ruby on Rails Tutorial
+Rubyチュートリアルを勉強した際のリポジトリです。
 
 ## "hello, world!"
 
